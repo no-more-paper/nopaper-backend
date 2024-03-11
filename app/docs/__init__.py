@@ -1,0 +1,1 @@
+from app.docs.router import router
