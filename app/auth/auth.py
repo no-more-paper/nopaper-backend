@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024-present ZanSara <github@zansara.dev>
+#
+# SPDX-License-Identifier: AGPL-3.0-only
 from typing import Annotated
 from pydantic import BaseModel
 from fastapi import Depends, HTTPException, status
